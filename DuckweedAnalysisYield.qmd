@@ -23,6 +23,8 @@ library(dplyr)
 library(readr)
 library(ggplot2)
 
+# rsconnect::writeManifest()
+# May need to run to set dependencies occuasionally.
 
 # R activities that need to happen 
 #  before the server loads (before render time)
