@@ -3,15 +3,11 @@
   "locale": "en_US",
   "platform": "4.3.0",
   "metadata": {
-    "appmode": "quarto-shiny",
-    "primary_rmd": "DuckweedAnalysisYield.qmd",
+    "appmode": "shiny",
+    "primary_rmd": null,
     "primary_html": null,
     "content_category": null,
     "has_parameters": false
-  },
-  "quarto": {
-    "version": "1.5.57",
-    "engines": ["knitr"]
   },
   "packages": {
     "DT": {
@@ -2300,6 +2296,9 @@
     }
   },
   "files": {
+    "app.R": {
+      "checksum": "5aa958cee2f52244cf150b2157e3a8ca"
+    },
     "DuckweedAnalysisYield.qmd": {
       "checksum": "b2b2d58c09dcf7acd6aea970f98a356f"
     },

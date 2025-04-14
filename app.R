@@ -45,6 +45,7 @@ format_data <- function(raw_dat){
 
 # ---- UI ----
 ui <- fluidPage(
+  theme = bslib::bs_theme(bootswatch = "flatly"),
   titlePanel("Measuring Interaction Strength: Data Preparation"),
   sidebarLayout(
     sidebarPanel(
