@@ -2301,10 +2301,19 @@
   },
   "files": {
     "DuckweedAnalysisYield.qmd": {
-      "checksum": "09356260a7f892cba49f15cd7417395d"
+      "checksum": "b2b2d58c09dcf7acd6aea970f98a356f"
     },
     "DuckweedDataPreparation.qmd": {
       "checksum": "1eae251b40313db4df491ff887bc904d"
+    },
+    "DuckweedDataPreparation/app.R": {
+      "checksum": "1f96fdfcb13df9e5c9c4f743ea844298"
+    },
+    "DuckweedDataPreparation/app0.R": {
+      "checksum": "f2fb11dc47043e010e71656f12c461c0"
+    },
+    "DuckweedDataPreparation/app2.R": {
+      "checksum": "3fd586640487d81024b745d9991395f2"
     },
     "README.md": {
       "checksum": "54a88476e23c4fea6b9b85380dfa9a20"
