@@ -1,0 +1,32 @@
+
+---
+title: "Duckweed Dashboard"
+format:
+  html:
+    toc: true
+    theme: cosmo
+    page-layout: full
+    css: styles.css
+---
+
+# 🧪 Duckweed Tools Overview
+
+Welcome to the Duckweed Experiment Dashboard. Use the tools below to upload, format, and analyze your experiment data.
+
+::: {.grid}
+::: {.g-col-6}
+### 📤 [Data Preparation Tool](../prep_app/)
+
+Prepare your CSV data for analysis. This app will validate, reformat, and return a clean dataset ready for downstream analysis.
+:::
+
+::: {.g-col-6}
+### 📊 [Yield & Growth Analysis](../analysis_app/)
+
+Explore growth differences, final yields, and per capita rates across treatments using interactive plots and summaries.
+:::
+:::
+
+## 🧭 Navigation
+
+Use the sidebar or cards above to access the individual apps. Be sure your data is formatted using the Data Prep tool before analysis.
